@@ -1,0 +1,24 @@
+.customer-note {
+    margin-botton: 10px;
+}
+
+.qr-code-img {
+    width: 100%;
+    max-height: unset !important;
+    margin-bottom: 10px;
+}
+
+p.behalf-description, p.behalf-intructions {
+    font-size: 16px;
+}
+
+p.behalf-description br, p.behalf-intructions br{
+    content: "";
+    display: block;
+    margin: 10px;
+}
+
+li.wc_payment_method.payment_method_behalf_gateway label img {
+    max-height: 40px;
+    padding-right: 10px !important;
+}
